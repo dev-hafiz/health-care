@@ -1,0 +1,16 @@
+.top-cart.d-flex {
+     width: 340px;
+     height: 250px;
+     background: #eeeeee82;
+     padding: 50px;
+     text-align: start;
+     border-radius: 10px;
+     box-shadow: 10px 10px 10px #eee;
+     align-items: center;
+ }
+ 
+ .icon-cart i {
+     color: #FF9801;
+     padding-right: 20px;
+     font-size: 40px;
+ }

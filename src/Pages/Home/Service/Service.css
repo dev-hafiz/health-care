@@ -1,0 +1,29 @@
+.service-body {
+     background: white;
+     padding: 22px;
+     width: 318px;
+     text-align: center;
+     position: relative;
+     top: -77px;
+     left: 24px;
+     box-shadow: 4px 9px 6px #eee;
+     border-radius: 10px;
+     height: 270px;
+ }
+
+ button.book-btn {
+     border: none;
+     background: #1a1a1b;
+     color: white;
+     padding: 10px 20px;
+     font-size: 16px;
+     border-radius: 23px;
+     font-weight: 600;
+     
+ }
+
+ button.book-btn:hover{
+     background: #313131;
+     transition: linear .3s;
+ }
+

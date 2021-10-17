@@ -6,6 +6,7 @@ import Home from './Pages/Home/Home/Home';
 import Login from './Pages/Home/Login/Login';
 import NavMenu from './Pages/Home/NavMenu/NavMenu';
 import Register from './Pages/Home/Register/Register';
+import { ServiceDetail } from './Pages/Home/ServiceDetail/ServiceDetail';
 import Services from './Pages/Home/Services/Services';
 import NotFound from './Pages/NotFound/NotFound';
 
@@ -34,6 +35,9 @@ function App() {
             </Route>
             <Route path ="/register">
                 <Register/>
+            </Route>
+            <Route path ="/service/:serviceId">
+                <ServiceDetail/>
             </Route>
 
             <Route path ="*">

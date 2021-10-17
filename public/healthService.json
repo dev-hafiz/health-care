@@ -50,9 +50,16 @@
 	},
 	{
 		"id": 8,
-		"name": "mental console",
+		"name": "Mental console",
 		"description": "Good mental health is characterised by a person's ability to fulfil a number of key functions and activities, including: the ability to learn. the ability to feel.",
 		"activeHour": "22hr",
 		"img": "https://i.ibb.co/Js5dXmr/test8.png"
+	},
+	{
+		"id": 9,
+		"name": "Medicine guide",
+		"description": "Ability to fulfil a number of key functions and activities, including: the ability to learnhealth is characterised by a person's . the ability to feel.",
+		"activeHour": "22hr",
+		"img": "https://i.ibb.co/2gD1nyb/img.jpg"
 	}
 ]

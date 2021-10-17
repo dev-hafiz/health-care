@@ -1,0 +1,12 @@
+.health-services{
+
+}
+.health-services h2{
+     font-weight: 700;
+}
+.health-services p {
+     text-shadow: 4px 3px 5px;
+     color: #FF9801;
+     letter-spacing: 4px;
+     font-size: 20px;
+ }
