@@ -1,0 +1,11 @@
+.Carosel-text {
+     color: #FF9801;
+     margin-bottom: 130px;
+     background: white;
+     padding: 60px 30px;
+     width: 623px;
+     box-shadow: 11px 13px 25px beige;
+ }
+.Carosel-text h1 {
+     font-weight:bold;
+}
