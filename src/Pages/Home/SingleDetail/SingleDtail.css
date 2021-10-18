@@ -1,0 +1,18 @@
+.detail-box {
+     width: 465px;
+     margin-right: 150px;
+ }
+.detail-box p {
+     font-size: 18px;
+     line-height: 28px;
+     margin-top: 30px;
+     margin-bottom: 38px;
+ }
+.active-hr {
+     background: #FF9801;
+     padding: 8px 10px;
+     color: white;
+     font-size: 20px;
+     font-weight: 700;
+     letter-spacing: 4px;
+ }

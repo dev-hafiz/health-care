@@ -1,0 +1,46 @@
+.auth-div {
+     margin: 0px 40px;
+     padding-top: 66px;
+     padding-bottom: 50px;
+     border: 1px solid gainsboro;
+     padding-right: 20px;
+     padding-left: 20px;
+ }
+
+ h3.text-pri-reg {
+     font-size: 32px;
+     margin-bottom: 32px;
+     font-weight: 700;
+ }
+
+ .input-filed input {
+     width: 100%;
+     padding: 10px 20px;
+     margin-bottom: 16px;
+     background: #eee;
+     outline: none;
+     border: none;
+     font-size: 20px;
+ }
+
+ button.btn-register-pri {
+     width: 100%;
+     border: none;
+     outline: none;
+     padding: 8px 10px;
+     margin-top: 20px;
+     background: #1A73E8;
+     color: white;
+     font-size: 20px;
+     margin-bottom: 10px;
+ }
+
+ p.toggle-text {
+     font-size: 18px;
+ }
+
+ button.sign-btn {
+     margin-right: 10px;
+     padding: 7px 23px;
+     background: white;
+ }

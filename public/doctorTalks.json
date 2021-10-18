@@ -1,0 +1,38 @@
+[
+     {
+       "id": 1,
+       "title": "Your Doctor",
+       "des": "Experienced doctors focused on one priority—you",
+       "icon": "https://i.ibb.co/zJ4GvRF/icon1.png"
+     },
+     {
+       "id": 2,
+       "title": "Your Family & Friends ",
+       "des": "We'll keep whomever is important to you in the loop too",
+       "icon": "https://i.ibb.co/w7qRPbY/icon2.png"
+     },
+     {
+       "id": 3,
+       "title": "Your Operations Assistants",
+       "des": "Friendly team members are always ready to help when you need",
+       "icon": "https://i.ibb.co/N618p81/icon3.png"
+     },
+     {
+       "id": 4,
+       "title": "Your Health Coaches",
+       "des": "Health Coaches advocate for you every step of the way.",
+       "icon": "https://i.ibb.co/f40CnRw/icon6.png"
+     },
+     {
+       "id": 5,
+       "title": "Your Specialists",
+       "des": "We'll communicate and collaborate with your other doctors—not just read your records",
+       "icon": "https://i.ibb.co/cc23C21/icon4.png"
+     },
+     {
+       "id": 6,
+       "title": "Your Insurance",
+       "des": "We work closely with your insurer to help you get the most out of your plan",
+       "icon": "https://i.ibb.co/vzzBr0z/icon5.png"
+     }
+   ]

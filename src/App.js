@@ -9,6 +9,7 @@ import Register from './Pages/Home/Register/Register';
 import { ServiceDetail } from './Pages/Home/ServiceDetail/ServiceDetail';
 import Services from './Pages/Home/Services/Services';
 import NotFound from './Pages/NotFound/NotFound';
+import Footer from './Pages/Shared/Footer/Footer';
 
 function App() {
 
@@ -44,6 +45,7 @@ function App() {
                 <NotFound/>
             </Route>
         </Switch>
+        <Footer/>
     </Router>
 
     </div>

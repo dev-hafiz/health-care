@@ -1,3 +1,4 @@
+
 .service-body {
      background: white;
      padding: 22px;
@@ -12,18 +13,17 @@
  }
 
  button.book-btn {
-     border: none;
-     background: #1a1a1b;
-     color: white;
-     padding: 10px 20px;
-     font-size: 16px;
-     border-radius: 23px;
-     font-weight: 600;
-     
- }
+    border: none;
+    background: #FF9801;
+    color: white;
+    padding: 7px 16px;
+    font-size: 16px;
+    border-radius: 4px;
+    font-weight: 600;
+}
 
  button.book-btn:hover{
-     background: #313131;
+     background: #ff9901c5;
      transition: linear .3s;
  }
 

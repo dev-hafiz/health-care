@@ -1,0 +1,34 @@
+body{
+     overflow-x: hidden;
+}
+.news-cart {
+     background: #eee;
+     margin: 20px;
+     width: 400px;
+     padding: 50px 32px;
+     color: #1a1a1b;
+ }
+
+ .news-cart:hover {
+     background:  #ff9d09be;
+     transition: linear .4s;
+ }
+
+ h3.cart-title {
+     font-family: sans-serif;
+     font-weight: 600;
+     font-size: 31px;
+     margin: 25px 0;
+ }
+
+ p.cart-para {
+     font-size: 20px;
+     margin-top: 50px;
+     margin-bottom: 40px;
+ }
+
+ .cart-icon {
+     color: #FF9801;
+     font-size: 21px;
+     margin-right: 7px;
+ }
