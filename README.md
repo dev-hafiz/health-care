@@ -2,7 +2,7 @@
 
 Medi life web is The online Doctor platform
 
-Our official Services [Visit our Site click on this blue text !!!](https://pip.pypa.io/en/stable/) available here .
+Our official Services [Visit our Site click on this blue text !!!](https://medi-life-authentication.web.app/) available here .
 
 ```bash
 visit for...
@@ -30,6 +30,4 @@ If you need pre-direction just visit the site link is here .
 
 ## VISIT HERE
 
-[Medi life](https://choosealicense.com/licenses/mit/)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Medi life](https://medi-life-authentication.web.app/)

@@ -3,7 +3,7 @@ import './TopCart.css';
 const TopCart = () => {
      return (
           <div>
-              <div className="container my-5 py-5">
+              <div className="container ">
                <div className="row">
                      <div className="col-lg-4 col-md-6 col-12">
                          <div className="top-cart d-flex">

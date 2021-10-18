@@ -10,8 +10,8 @@ const NewsCart = ({newsfeed}) => {
                <p className="cart-para">{detail}</p>
                <hr />
                <div className="d-flex">
-                    <h5 ><i class="far cart-icon fa-user"></i> {stage}</h5>
-                    <h5 className="ms-4"> <i class="fas cart-icon fa-calendar-week"></i> {date}</h5>
+                    <h6 ><i class="far cart-icon fa-user"></i> {stage}</h6>
+                    <h6 className="ms-4"> <i class="fas cart-icon fa-calendar-week"></i> {date}</h6>
                </div>
           </div>
      );
