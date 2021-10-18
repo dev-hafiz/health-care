@@ -3,8 +3,10 @@ import { Container, Nav, Navbar } from 'react-bootstrap';
 import './NavMenu.css';
 import LogoNav from '../../../images-medilife/logonav.png';
 import { Link } from 'react-router-dom';
+import useAuth from '../../../hooks/useAuth';
 
 const NavMenu = () => {
+  const {user, logOutuser} = useAuth()
      return (
           <Navbar collapseOnSelect expand="lg"  bg="#fff" variant="light">
           <Container>
@@ -23,11 +25,15 @@ const NavMenu = () => {
             <Nav.Link as={Link} className="link-style" to="/home">Home</Nav.Link>
             <Nav.Link as={Link} className="link-style" to="/services">Services</Nav.Link>
             <Nav.Link as={Link} className="link-style" to="/doctors">Doctor's</Nav.Link>
-            <Nav.Link as={Link} className="link-style"   to="/login">Login</Nav.Link>
+
+            {user.email ? <Nav.Link as={Link} className="link-style"  onClick={logOutuser}  to="#">LogOut</Nav.Link>
+            :
+            <Nav.Link as={Link} className="link-style"   to="/login">Login</Nav.Link>}
+            
             <Nav.Link as={Link} className="link-style" to="/register">Register</Nav.Link>
 
                <Navbar.Text>
-               Signed in as: <a href="#login">Mark Otto</a>
+               Profile: <span className="fw-bold">{user.displayName}</span>
                </Navbar.Text>
           </Navbar.Collapse>
 

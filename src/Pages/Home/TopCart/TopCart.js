@@ -5,7 +5,7 @@ const TopCart = () => {
           <div>
               <div className="container my-5 py-5">
                <div className="row">
-                     <div className="col-lg-4 col-12">
+                     <div className="col-lg-4 col-md-6 col-12">
                          <div className="top-cart d-flex">
                               <div className="icon-cart">
                               <i className="fas fa-map-marker-alt"></i>
@@ -16,7 +16,7 @@ const TopCart = () => {
                               </div>
                          </div> 
                      </div>
-                     <div className="col-lg-4 col-12">
+                     <div className="col-lg-4 col-md-6 col-12">
                      <div className="top-cart d-flex">
                               <div className="icon-cart">
                               <i className="fas fa-headphones-alt"></i>
@@ -31,7 +31,7 @@ const TopCart = () => {
                               </div>
                          </div> 
                      </div>
-                     <div className="col-lg-4 col-12">
+                     <div className="col-lg-4 col-md-6 col-12">
                      <div className="top-cart d-flex">
                               <div className="icon-cart">
                               <i className="fas fa-user-clock"></i>

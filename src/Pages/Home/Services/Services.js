@@ -22,7 +22,7 @@ const Services = () => {
                    <h2>Health Services</h2> 
                    <p>A voice of illness patient</p>
                  </div>
-                 <div className="row my-5">
+                 <div className="row">
                     {
                          services.map(service => <Service
                          key={service.id}

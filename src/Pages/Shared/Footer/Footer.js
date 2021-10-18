@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="footer-design">
                <div className="container ">
                <div className="row mb-5">
-                    <div className="col-lg-3 col-md-3 col-12 first-col ">
+                    <div className="col-lg-3 col-md-6 col-12 first-col ">
                         <div className="d-flex  align-items-center">
                         <div className="log-bottom">
                         <img width="90" src={mediLogo} alt="" />
@@ -19,7 +19,7 @@ const Footer = () => {
                         Expatriate Health Insurance. International Medical Insurance for Expatriates. Designed for those living and working abroad.
                         </p>
                     </div>
-                    <div className="col-lg-3 d-flex justify-content-center  col-md-3 col-12 second-col">
+                    <div className="col-lg-3 d-flex justify-content-center  col-md-6 col-12 second-col">
                        <div>
                        <h3 className="primary-text">Explore</h3>
                         <ul>
@@ -30,7 +30,7 @@ const Footer = () => {
                         </ul>
                        </div>
                     </div>
-                    <div className="col-lg-3  col-md-3 col-12 third-col">
+                    <div className="col-lg-3  col-md-6 col-12 third-col">
                          <h3  className="primary-text">Services</h3>
                            <ul>
                              <li><Link  to="#">Birthing Care</Link></li>
@@ -41,7 +41,7 @@ const Footer = () => {
                         </ul>
 
                     </div>
-                    <div className="col-lg-3 col-md-3 col-12 fourth-col">
+                    <div className="col-lg-3 col-md-6 col-12 fourth-col">
                     <h3 className="primary-text">Info Contact | Email</h3>
                     <p className="info-text">Stay in the know with news and promotions</p>
                     <div className="info-input">

@@ -4,6 +4,8 @@
      background: white;
      padding: 60px 30px;
      width: 623px;
+     position: relative;
+     top: -395px;
      box-shadow: 11px 13px 25px beige;
      margin-bottom: 30px;
  }
